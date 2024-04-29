@@ -12,16 +12,5 @@
   },
   "name": "0",
   "version": "1.0.0",
-  "main": "server.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stablegenius10/leavetracker.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/stablegenius10/leavetracker/issues"
-  },
-  "homepage": "https://github.com/stablegenius10/leavetracker#readme",
-  "description": ""
+  "main": "server.js"
 }
